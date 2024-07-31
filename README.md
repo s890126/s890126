@@ -12,7 +12,7 @@ I am Tzu Wang (Jeff), currently a Cloud Engineer Intern at Cathay Financial Hold
                   ### Socials
                   
                   
-                <p align="left">
+  <p align="left">
                       <a href="https://www.github.com/s890126" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
